@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Wiki</title>
+    <title>Ascendent</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <header>
-        <h1>My Wiki</h1>
+        <h1>Not so smurf</h1>
         <nav>
             <a href="#">Home</a>
             <a href="#">Articles</a>
