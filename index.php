@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Not so smurf</h1>
+        <h1>Jett Smurf God</h1>
         <nav>
             <a href="#">Home</a>
             <a href="#">Articles</a>
@@ -14,11 +14,11 @@
         </nav>
     </header>
     <main>
-        <h2>Welcome to My Wiki</h2>
+        <h2>Welcome to lower Rank</h2>
         <p>This is devops practical 4</p>
     </main>
     <footer>
-        <p>&copy; 2023 My Wiki</p>
+        <p>&copy; 2023 My Valorant</p>
     </footer>
 </body>
 </html>
