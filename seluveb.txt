@@ -1,0 +1,31 @@
+from selenium import webdriver
+import time
+from selenium.webdriver.common.keys import Keys
+print("sample test case started")
+driver = webdriver.Chrome()
+driver.maximize_window()
+driver.get("file:///C:/Users/harsh/OneDrive/Desktop/loginpage.html")
+time.sleep(4)
+driver.find_element("name", "uname").send_keys("Harsh")
+time.sleep(4)
+driver.find_element("name", "psw").send_keys("Shah")
+time.sleep(4)
+
+driver.find_element("name", "butt").send_keys(Keys.ENTER)
+time.sleep(4)
+
+driver.close()
+print("sample test case successfully completed")
+
+
+
+
+from selenium import webdriver 
+from selenium.webdriver.common.keys import Keys
+
+driver = webdriver.Chrome()
+driver.get("https://www.google.com/")
+element = driver.find_element("name","q")
+element.send_keys("test")
+element.submit()
+driver.close()
